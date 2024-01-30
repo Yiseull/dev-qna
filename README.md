@@ -10,3 +10,4 @@
 - [Querydsl에서 정렬 조건이 QClass의 List 필드라면 어떻게 해야할까? #1](https://github.com/Yiseull/dev-qna/issues/1)
 - [@Transactional vs save() 둘 중 어느 것을 사용해야 할까? #2](https://github.com/Yiseull/dev-qna/issues/2)
 - [도메인에서 null 체크 -> @NotNull vs Objects.requireNonNull #4](https://github.com/Yiseull/dev-qna/issues/4)
+- [포인트 지급 로직 어떻게 처리할까? 직접 메소드 호출 vs 이벤트 #8](https://github.com/Yiseull/dev-qna/issues/8)
