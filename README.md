@@ -9,10 +9,13 @@
 
 ## 고민
 #### Solving
-- [AOP에는 트랜잭션이 작동하지 않는걸까? AOP 내부에서 변경 감지는 못하는걸까? #5](https://github.com/Yiseull/dev-qna/issues/5)
+- [인수 테스트에서 테스트 격리하기(테스트 데이터 초기화) #13](https://github.com/Yiseull/dev-qna/issues/13)
+- [테스트를 쉽게 하기 위해 구현 코드를 변경해도 되는걸까? #10](https://github.com/Yiseull/dev-qna/issues/10)
 - [OSIV를 고려한 트랜잭션 범위 #6](https://github.com/Yiseull/dev-qna/issues/6)
+- [AOP에는 트랜잭션이 작동하지 않는걸까? AOP 내부에서 변경 감지는 못하는걸까? #5](https://github.com/Yiseull/dev-qna/issues/5)
 
 #### Completed
+- [모킹할 때 테스트 검증에 필요하지 않은 값들은 Mockito ArgumentMatchers로 대체해도 될까? #11](https://github.com/Yiseull/dev-qna/issues/11)
 - [Redis의 Sorted Set을 사용한 랭킹 시스템에서 동점자 처리 #9](https://github.com/Yiseull/dev-qna/issues/9)
 - [포인트 지급 로직 어떻게 처리할까? 직접 메소드 호출 vs 이벤트 #8](https://github.com/Yiseull/dev-qna/issues/8)
 - [도메인에서 null 체크 -> @NotNull vs Objects.requireNonNull #4](https://github.com/Yiseull/dev-qna/issues/4)
