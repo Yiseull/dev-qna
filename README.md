@@ -2,7 +2,7 @@
 > 개발하다가 마주친 크고 작은 고민들 & 궁금증들을 모아놓은 레포지토리
 
 ## 개선
-- [Redis 로직을 이벤트 비동기 처리](https://github.com/Yiseull/dev-qna/blob/main/%5B%EA%B0%9C%EC%84%A0%5D%20Redis%20%EB%A1%9C%EC%A7%81%EC%9D%84%20%EC%9D%B4%EB%B2%A4%ED%8A%B8%20%EB%B9%84%EB%8F%99%EA%B8%B0%20%EC%B2%98%EB%A6%AC.md)
+- [Redis 관련 로직을 이벤트로 처리하기](https://github.com/Yiseull/dev-qna/blob/main/%5B%EA%B0%9C%EC%84%A0%5D%20Redis%20%EB%A1%9C%EC%A7%81%EC%9D%84%20%EC%9D%B4%EB%B2%A4%ED%8A%B8%20%EB%B9%84%EB%8F%99%EA%B8%B0%20%EC%B2%98%EB%A6%AC.md)
 
 ## 트러블슈팅
 - [@SpringBootTest에서 LazyInitializationException 발생](https://github.com/Yiseull/dev-qna/blob/main/%5B%ED%8A%B8%EB%9F%AC%EB%B8%94%EC%8A%88%ED%8C%85%5D%20%40SpringBootTest%EC%97%90%EC%84%9C%20LazyInitializationException%20%EB%B0%9C%EC%83%9D.md)
